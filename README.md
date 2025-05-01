@@ -21,7 +21,6 @@ This is an intelligent chatbot that answers user queries using a `.docx` FAQ doc
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/faq-chatbot.git
 cd faq-chatbot
 pip install -r requirements.txt
  by: Anushak Shree Bajpai
