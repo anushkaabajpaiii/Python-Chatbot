@@ -22,6 +22,7 @@ This is an intelligent chatbot that answers user queries using a `.docx` FAQ doc
 
 ```bash
 cd faq-chatbot
+https://github.com/anushkaabajpaiii
 pip install -r requirements.txt
- by: Anushak Shree Bajpai
+by: Anushak Shree Bajpai
 banushka286@gmail.com
